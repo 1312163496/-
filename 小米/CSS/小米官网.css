@@ -1,0 +1,1003 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none
+}
+
+.aox {
+    background: #000000;
+    height: 40px;
+    width: 100%;
+    color: #ffffff;
+    line-height: 40px;
+    font-size: 12px;
+}
+
+.aox .bbox {
+    width: 1226px;
+    height: 40px;
+    margin: 0 auto;
+}
+
+.box .cox {
+    float: left;
+    color: #999999;
+    margin-left: 10px;
+}
+
+.cox a:hover {
+    color: #fff;
+}
+
+.box span {
+    color: #3b3b3b;
+    float: left;
+    margin: 0 0 0 6px;
+}
+
+.box a {
+    color: #b0b0b0;
+}
+
+.icon-che {
+    float: left;
+    display: block;
+    margin-left: 20px;
+}
+
+div .dox {
+    float: right;
+    width: 120px;
+    height: 40px;
+    background: #424242;
+    text-align: center;
+    margin-left: 20px;
+    color: #b0b0b0;
+}
+
+.dox .icon-qicheqianlian-1-copy {
+    font-size: 20px;
+    color: #b0b0b0;
+}
+
+.dox:hover .icon-qicheqianlian-1-copy {
+    color: #ff2a2a;
+}
+
+.dox:hover {
+    background: #fff;
+    color: #ff2a2a;
+}
+
+.eox .fox {
+    float: right;
+    color: #ffffff;
+}
+
+.fox a {
+    color: #b0b0b0;
+}
+
+.eox a:hover {
+    color: #fff;
+}
+
+.gox {
+    float: right;
+    margin: 0 4px;
+    color: #b0b0b0;
+}
+
+
+/*以上为头部*/
+
+.hox {
+    width: 1226px;
+    height: 88px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+
+.hox img {
+    width: 55px;
+    height: 55px;
+    float: left;
+    line-height: 55px;
+    margin-top: 15px;
+}
+
+.kox {
+    float: left;
+    margin: 0 10px;
+    text-align: center;
+    line-height: 88px;
+    font-size: 16px;
+}
+
+.aezakmi {
+    width: 297px;
+    height: 48px;
+    border: 1px solid #333;
+    float: right;
+    margin-top: 19px;
+}
+
+.aezakmi input {
+    width: 245px;
+    height: 48px;
+    border: 0.5px solid #333333;
+    background: #fff;
+}
+
+.aezakmi .icon-sousuo {
+    width: 32px;
+    height: 32px;
+    color: #757575;
+    margin-left: 16px;
+}
+
+.aezakmi a {
+    width: 50px;
+    height: 47px;
+    border: 0.5px solid #333333;
+    display: inline-block;
+    float: right;
+    line-height: 47px;
+}
+
+.aezakmi a:hover {
+    background: #ff6700;
+}
+
+.aezakmi a:hover .icon-sousuo {
+    color: white;
+}
+
+.kox a {
+    color: #000000;
+}
+
+.lox {
+    height: 50px;
+    width: 50px;
+    background: #ffff;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 50px;
+    float: right;
+    margin-top: 19px
+}
+
+.lox i {
+    display: inline-block;
+}
+
+.mox {
+    height: 50px;
+    width: 150px;
+    background: #ffff;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    float: right;
+    margin-top: 19px
+}
+
+.cad:hover {
+    color: #ff2a2a;
+}
+
+.banner {
+    width: 1226px;
+    height: 460px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.banner img {
+    width: 1226px;
+    height: 460px;
+    z-index: 1;
+    position: absolute;
+}
+
+.banner .bannerNavigation {
+    z-index: 2;
+    float: left;
+    display: inline;
+    height: 460px;
+    width: 234px;
+    background: #424242;
+    position: absolute;
+    top: 0px;
+}
+
+.bannerNavigation li {
+    height: 42px;
+    width: 204px;
+    padding-left: 30px;
+    padding-top: 3px;
+}
+
+.bannerNavigation a {
+    color: white;
+    line-height: 42px;
+}
+
+.bannerNavigation i {
+    color: #fff;
+    float: right;
+    position: absolute;
+    right: 5px;
+    line-height: 42px;
+}
+
+.bannerNavigation li:hover {
+    background: #ff6700;
+}
+
+.bannerleft i {
+    font-size: 32px;
+    width: 41px;
+    height: 69px;
+    z-index: 2;
+    position: absolute;
+    top: 195.5px;
+    line-height: 69px;
+    left: 234px;
+    color: #333;
+}
+
+.banner .point {
+    width: 94px;
+    height: 10px;
+    position: absolute;
+    right: 24px;
+    bottom: 24px;
+    z-index: 2;
+}
+
+.banner .point li {
+    width: 6px;
+    height: 6px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.4);
+    float: left;
+    margin: 0 4px;
+}
+
+.icon-arrow-1 {
+    color: #fff;
+}
+
+.bannerright i {
+    font-size: 32px;
+    width: 41px;
+    height: 69px;
+    z-index: 2;
+    position: absolute;
+    top: 195.5px;
+    right: 0;
+    color: #333;
+    line-height: 69px;
+}
+
+.bannerright li:hover {
+    background: #333;
+}
+
+.bannerleft li:hover .iconfont {
+    color: white;
+    background: #333;
+}
+
+.home {
+    width: 1226px;
+    height: 170px;
+    margin: 14px auto 0px;
+}
+
+.homeNavigation {
+    width: 234px;
+    height: 170px;
+    background: #5f5750;
+    display: inline-block;
+}
+
+.homeNavigation li {
+    width: 76px;
+    height: 49px;
+    padding: 14px 0;
+    float: left;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 2px;
+}
+
+.homeNavigation a {
+    color: #333;
+}
+
+.homeNavigation a:hover {
+    color: white;
+}
+
+.homeNavigation a:hover i {
+    color: white;
+}
+
+.homeNavigation i {
+    font-size: 24px;
+    display: block;
+    color: #333333;
+}
+
+.home .homeimg {
+    width: 978px;
+    height: 170px;
+    float: right;
+}
+
+.home .homeimg li {
+    width: 316px;
+    height: 170px;
+    float: right;
+    margin-left: 10px;
+}
+
+.home .homeimg img {
+    width: 316px;
+    height: 170px;
+}
+
+.Flashpurchase {
+    width: 1226px;
+    height: 58px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.Flashpurchase h2 {
+    line-height: 58px;
+    float: left;
+    font-weight: normal;
+}
+
+.Flashpurchase li {
+    border: 1px solid #333;
+    width: 36px;
+    height: 24px;
+    float: right;
+    margin-top: 12px;
+    text-align: center;
+}
+
+.Flashpurchase a {
+    color: black;
+}
+
+.Flashpurchase i {
+    font-size: 12px;
+    color: black;
+}
+
+.Flashpurchase li:hover {
+    color: white;
+    background: #ff6700;
+}
+
+.Flashpurchase i:hover {
+    color: white;
+}
+
+.Flashpurchaseimg {
+    width: 1226px;
+    height: 340px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.Flashpurchaseimgtitle {
+    width: 234px;
+    height: 340px;
+    border-top: 1px solid red;
+}
+
+.Flashpurchaseimgtitle .time {
+    text-align: center;
+    color: #e53935;
+    font-size: 21px;
+    padding-top: 43px;
+}
+
+.Flashpurchaseimgtitle img {
+    width: 44px;
+    height: 63px;
+    position: absolute;
+    left: 96px;
+    top: 80px;
+}
+
+.Flashpurchaseimgtitle .Countdown {
+    font-size: 15px;
+    position: absolute;
+    top: 193px;
+    left: 72px;
+    text-align: center;
+}
+
+.Flashpurchaseimgtitle .lbcd {
+    text-align: center;
+    position: absolute;
+    bottom: 40px;
+    left: 34px;
+}
+
+.Flashpurchaseimgtitle .lbcd span {
+    width: 46px;
+    height: 46px;
+    background: #605751;
+    color: white;
+    font-size: 21px;
+    display: inline-block;
+    line-height: 46px;
+}
+
+.Picturearea {
+    width: 978px;
+    height: 340px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.Picturearea a {
+    color: #333333;
+}
+
+.Picturearea li {
+    width: 234px;
+    height: 340px;
+    float: right;
+    text-align: center;
+    border-top: 1px solid red;
+    margin-right: 10px;
+}
+
+.Picturearea .top1 {
+    border-top: 1px solid blue;
+}
+
+.Picturearea .top2 {
+    border-top: 1px solid yellow;
+}
+
+.Picturearea .top3 {
+    border-top: 1px solid green;
+}
+
+.Picturearea li:hover {
+    box-shadow: 1px 1px 70px -60px #3F4C56;
+}
+
+.Picturearea li img {
+    width: 160px;
+    height: 160px;
+    background: rgba(0, 0, 0, .02);
+}
+
+.Picturearea .picturearea1 {
+    color: #212121;
+    width: 234px;
+    height: 21px;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+.Picturearea .picturearea2 {
+    width: 100%;
+    color: #b0b0b0;
+    margin-bottom: 10px;
+}
+
+.Picturearea .picturearea3 span {
+    width: 100%;
+    text-decoration: line-through;
+    display: inline;
+    font-size: 14px;
+    color: #333;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.Picturearea picturearea3 {
+    display: inline;
+    color: #ff6709;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 69px;
+    margin-top: 5px;
+    width: 100%;
+}
+
+.BannerRedmi8 {
+    width: 1226px;
+    height: 120px;
+    margin: 10px auto;
+}
+
+.BannerRedmi8 img {
+    width: 1226px;
+    height: 120px;
+}
+
+.Flashpurchase .all {
+    position: absolute;
+    top: 0px;
+    line-height: 58px;
+    display: block;
+    right: 0px;
+    width: 84px;
+    height: 45px;
+}
+
+.Flashpurchase .all a {
+    color: #333;
+}
+
+.Flashpurchase .all .icon-chakanquanbu {
+    font-size: 12px;
+}
+
+.Flashpurchase .all a:hover {
+    color: #ff6700;
+}
+
+.Flashpurchase .all a:hover i {
+    color: #ff6700;
+}
+
+.Flashpurchase .all:hover {
+    border-bottom: 1px solid #ff6700;
+}
+
+.Flashpurchase li img {
+    width: 24px;
+    height: 24px;
+    display: inline;
+    color: #424242;
+}
+
+.Flashpurchase li a {
+    color: #333;
+}
+
+.Flashpurchase li a:hover {
+    color: #ff6709;
+}
+
+.phone {
+    width: 1226px;
+    height: 614px;
+    margin: 0 auto;
+    background: #f5f5f5;
+}
+
+.phone .MixAlpha {
+    width: 240px;
+    height: 612px;
+    float: left;
+}
+
+.phone .MixAlpha img {
+    width: 240px;
+    height: 612px;
+}
+
+.redminote {
+    width: 986px;
+    height: 612px;
+    float: right;
+    text-align: center;
+}
+
+.redminote li {
+    width: 230.5px;
+    height: 300px;
+    float: left;
+    background: white;
+    margin-left: 16px;
+    margin-bottom: 14px;
+    white-space: nowrap;
+}
+
+.redminote li:hover {
+    box-shadow: 1px 1px 100px -60px #3F4C56;
+    transform: translateY(-2px);
+}
+
+.redminote li a {
+    width: 230.5px;
+    text-align: center;
+    color: #212121;
+    display: block;
+    margin-bottom: 2px;
+}
+
+.redminote li img {
+    width: 160px;
+    height: 160px;
+}
+
+.redminote li pre {
+    width: 230.5px;
+    text-align: center;
+    color: #b0b0b0;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.redminote li p {
+    width: 230.5px;
+    color: #ff6709;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.phone .redminote li p s {
+    text-decoration: line-through;
+    font-size: 13px;
+    color: #757575;
+    display: inline;
+}
+
+.Flashpurchase .queen {
+    display: inline-block;
+    line-height: 58px;
+    margin: 0 10px;
+    float: right;
+    height: 45px;
+    width: 84px;
+    text-align: center;
+}
+
+.more {
+    width: 230.5px;
+    height: 300px;
+    text-align: left;
+    background: #333;
+}
+
+.Flashpurchase .queen .iconfont .icon-chakanquanbu {
+    font-size: 12px;
+}
+
+.Flashpurchase .queen:hover {
+    color: #ff6700;
+    border-bottom: 1px solid #ff6700;
+}
+
+.Flashpurchase .queen:hover .icon-chakanquanbu {
+    color: #ff6700;
+}
+
+.appliances {
+    width: 1226px;
+    height: 614px;
+    margin: 0 auto;
+    background: #f5f5f5;
+}
+
+.appliances .electrical {
+    width: 234px;
+    height: 614px;
+    float: left;
+}
+
+.appliances .electrical img {
+    width: 234px;
+    height: 300px;
+    margin-bottom: 12px;
+}
+
+.appliances .more div {
+    width: 230px;
+    height: 143px;
+    background: white;
+    margin-bottom: 14px;
+    position: relative;
+}
+
+.appliances .more div a {
+    color: #333;
+    height: 60px;
+    width: 120px;
+    position: absolute;
+    top: 42px;
+}
+
+.appliances .more div p {
+    color: #ff6709;
+}
+
+.appliances .more div img {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.video {
+    width: 1226px;
+    height: 285px;
+    margin: 0 auto;
+}
+
+.video .oppo li {
+    width: 296px;
+    height: 285px;
+    position: relative;
+}
+
+.video .oppo li img {
+    margin-top: 30px;
+    width: 296px;
+    height: 200px;
+}
+
+.video .oppo li a {
+    display: block;
+    color: black;
+    text-align: center;
+}
+
+.video .oppo li {
+    float: left;
+    margin-right: 10.5px;
+}
+
+.video .oppo li p {
+    color: rgba(0, 0, 0, 0.7);
+    margin-top: 10px;
+}
+
+.video .oppo .play {
+    width: 36px;
+    height: 24px;
+    border: 2px solid #fff;
+    border-radius: 14px;
+    position: absolute;
+    bottom: 60px;
+    left: 7px;
+}
+
+.video .oppo .play {
+    color: #fff;
+}
+
+.video .oppo .play:hover {
+    background: #ff6709;
+    border: 2px solid #ff6709;
+}
+
+.video .oppo .playone {
+    width: 24px;
+    height: 24px;
+    margin-top: 0px;
+    margin-left: 0px;
+    color: #fff;
+}
+
+.video .oppo .playone:hover {
+    color: #ff2a2a;
+}
+
+.Maximum {
+    height: 272px;
+}
+
+.site {
+    width: 1226px;
+    height: 80px;
+    margin: 20px auto 0;
+}
+
+.site div {
+    float: left;
+    text-align: center;
+    width: 242.73px;
+    height: 25px;
+    border-left: 1px solid #333;
+    margin-top: 27.5px;
+}
+
+.site div a {
+    line-height: 25px;
+    font-size: 15px;
+    color: #333;
+}
+
+.site a i {
+    font-size: 24px;
+    margin-right: 2px;
+}
+
+.site a:hover {
+    color: #ff2a2a;
+}
+
+.map {
+    width: 1226px;
+    height: 192px;
+    padding: 40px 0;
+    margin: 0 auto;
+}
+
+.map .lenght {
+    width: 160px;
+    height: 122px;
+    float: left;
+}
+
+.map .lenght li {
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.map .lenght .big {
+    font-size: 14px;
+    margin: -1px 0 26px;
+}
+
+.map .small {
+    width: 252px;
+    height: 112px;
+    float: right;
+    border-left: 1px solid #333;
+}
+
+.map .small p {
+    font-size: 12px;
+    color: #616161;
+    text-align: center;
+}
+
+.map .small pre {
+    font-size: 12px;
+    color: #616161;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.map .small .red {
+    font-size: 22px;
+    color: #ff6700;
+    margin-bottom: 5px;
+}
+
+.map .small .Message {
+    width: 118px;
+    height: 28px;
+    border: 1px solid #ff6700;
+    margin-left: 67px;
+    color: #ff6700;
+}
+
+.map .small .Message a {
+    text-align: center;
+    line-height: 30px;
+    margin-left: 22px;
+    color: #ff6700;
+}
+
+.map .small .Message a i {
+    font-size: 13px;
+}
+
+.map .small .Message:hover {
+    background: #ff6700;
+    color: #ffffff;
+}
+
+.map .small .Message a:hover {
+    color: #ffffff;
+}
+
+.last {
+    height: 190px;
+    background: #fafafa;
+    padding: 30px 0;
+}
+
+.last .Mijia {
+    width: 1226px;
+    height: 109px;
+    margin: 0 auto
+}
+
+.last .mimimi {
+    float: left;
+}
+
+.last .text {
+    width: 1159px;
+    height: 37px;
+    float: right;
+    font-size: 12px;
+}
+
+.last .text a {
+    color: #757575;
+}
+
+.last .text span {
+    margin-left: 2px;
+    color: #757575;
+}
+
+.last .text a:hover {
+    color: #ff6700;
+}
+
+.last .iggermax {
+    width: 1159px;
+    height: 72px;
+    float: right;
+}
+
+.last .bigger a {
+    color: #b0b0b0;
+    font-size: 14px;
+}
+
+.last .bigger {
+    font-size: 14px;
+    color: #b0b0b0;
+}
+
+.last .bigger a:hover {
+    color: #ff6700;
+}
+
+.Concludingremarks {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.Concludingremarks a {
+    color: #3F4C56;
+}
+
+.Sidenavigation {
+    width: 27px;
+    height: 261px;
+    position: fixed;
+    left: 97%;
+    bottom: 90px;
+}
+
+.Sidenavigation .PNG {
+    width: 27px;
+    height: 52.2px;
+    margin-top: 1px;
+    background: #f5f5f5;
+    text-align: center;
+    line-height: 52.2px;
+}
+
+.Sidenavigation .PNG i {
+    font-size: 20px;
+    color: #333;
+}
+
+.Sidenavigation .PNG i:hover {
+    color: #ff6700;
+}
+
+.Sidenavigation .ovg {
+    margin-top: 20px;
+}
